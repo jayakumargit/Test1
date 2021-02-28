@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T08:27:07.282Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="l01BgHjMrTHgg4xMyXPe" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T09:06:56.589Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="_CXy4SPiRjV4tpRMBpuG" version="14.4.3" type="github">
   <diagram id="VdLGZPCe84FoVswAMfTZ" name="Page-1">
     <mxGraphModel dx="2805" dy="2273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,10 @@
         <mxCell id="ypW-tspVXmiVovdtBrpO-55" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="-360" width="2610" height="1500" as="geometry" />
         </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-1" target="ypW-tspVXmiVovdtBrpO-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-41" value="Manage Products, Promotions, Supplier, Inventory" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-1" target="ypW-tspVXmiVovdtBrpO-13">
+          <mxGeometry x="-0.4633" y="-35" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-1" target="ypW-tspVXmiVovdtBrpO-2">
           <mxGeometry relative="1" as="geometry">
@@ -20,8 +22,10 @@
             <mxGeometry x="1350" y="-280" width="180" height="110" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-2" target="ypW-tspVXmiVovdtBrpO-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-32" value="Get and Cache Static Content" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-2" target="ypW-tspVXmiVovdtBrpO-3">
+          <mxGeometry x="-0.7288" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Caching Platform" c4Type="Container" c4Technology="AWS CDN" c4Description="CDN to cache the static content" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
@@ -31,8 +35,18 @@
         <mxCell id="ypW-tspVXmiVovdtBrpO-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-3" target="ypW-tspVXmiVovdtBrpO-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-102" value="Store Static Content" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-31">
+          <mxGeometry x="-0.4072" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-3" target="ypW-tspVXmiVovdtBrpO-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-103" value="Get Products" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-33">
+          <mxGeometry x="-0.4085" y="21" relative="1" as="geometry">
+            <mxPoint x="-80" y="21" as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Content Mgmt Tool" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
@@ -42,6 +56,11 @@
         <mxCell id="ypW-tspVXmiVovdtBrpO-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-4" target="ypW-tspVXmiVovdtBrpO-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-108" value="View Products, Promotions &amp;amp; &lt;br&gt;Recommendations, Manage Orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-40">
+          <mxGeometry x="-0.4816" y="18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-4" target="ypW-tspVXmiVovdtBrpO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -50,6 +69,17 @@
             <mxGeometry x="560" y="-280" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-113" value="Get Recommendations" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-5" target="ypW-tspVXmiVovdtBrpO-12">
+          <mxGeometry x="-0.598" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1640" y="600" />
+              <mxPoint x="1230" y="600" />
+              <mxPoint x="1230" y="570" />
+              <mxPoint x="753" y="570" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Name="Data Analytics Platform" c4Type="Container" c4Technology="Snowflake, PowerBI" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="1640" y="445" width="160" height="110.00000000000001" as="geometry" />
@@ -63,6 +93,11 @@
         <mxCell id="ypW-tspVXmiVovdtBrpO-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-7" target="ypW-tspVXmiVovdtBrpO-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-109" value="View Products, Promotions &amp;amp; &lt;br&gt;Recommendations, Manage Orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-39">
+          <mxGeometry x="-0.3354" y="21" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-7" target="ypW-tspVXmiVovdtBrpO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -71,15 +106,17 @@
             <mxGeometry x="250" y="-280" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-8" target="ypW-tspVXmiVovdtBrpO-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-22" value="Save Master Data" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-8" target="ypW-tspVXmiVovdtBrpO-11">
+          <mxGeometry x="-0.5111" y="-30" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Master Data Mgmt" c4Type="Container" c4Technology="SpringBoot" c4Description="Master Data Mgmt to manage Currency, Store location, Product Categories" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="250" y="625" width="200" height="110" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-94" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-9" target="ypW-tspVXmiVovdtBrpO-72">
+        <mxCell id="ypW-tspVXmiVovdtBrpO-94" value="Sends Email, SMS to customer" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-9" target="ypW-tspVXmiVovdtBrpO-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Notification Manager/System" c4Type="Container" c4Technology="SpringBoot" c4Description="Notification Manager making use of messaging gateways" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-9">
@@ -87,8 +124,10 @@
             <mxGeometry x="-320" y="780" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.574;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-11" target="ypW-tspVXmiVovdtBrpO-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-25" value="Get Product Details, &lt;br&gt;Customer Profile, Crew Profile" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.574;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-11" target="ypW-tspVXmiVovdtBrpO-12">
+          <mxGeometry x="0.7874" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Type="Database" c4Technology="Aurora DB" c4Description="Order Database holding Orders, Inventory, Fulfilment Details" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-11">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
@@ -100,14 +139,18 @@
             <mxGeometry x="547.5" y="470" width="205" height="110" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-26" value="Get Recommendations &amp;amp; &lt;br&gt;send&amp;nbsp; orders" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-12">
+          <mxGeometry x="-0.203" y="-20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-35" value="Send SMS &amp; Email" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-9">
+          <mxGeometry x="0.9146" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-48" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-5">
           <mxGeometry relative="1" as="geometry" />
@@ -115,29 +158,76 @@
         <mxCell id="ypW-tspVXmiVovdtBrpO-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-81" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-71">
+        <mxCell id="ypW-tspVXmiVovdtBrpO-104" value="Send Order details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-51">
+          <mxGeometry x="0.2811" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-81" value="Get Loyalty Points and update the utilisation" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-71">
+          <mxGeometry x="0.6247" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-84" value="Get Orders, Inventory &lt;br&gt;updates via Event Streaming" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-84" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-61">
+        <mxCell id="ypW-tspVXmiVovdtBrpO-85" value="Handles Authentication and Authorisation" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-6" target="ypW-tspVXmiVovdtBrpO-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-6" target="ypW-tspVXmiVovdtBrpO-68">
+        <mxCell id="ypW-tspVXmiVovdtBrpO-114" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-85">
+          <mxGeometry x="0.3964" y="11" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-87" value="Sends Loading Information for a Flight" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-62">
+          <mxGeometry x="0.6908" y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-90" value="Gets Employee Profile, DDS Limit &amp; Sends DDS Utilisation" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-67">
+          <mxGeometry x="0.6709" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-91" value="Gets Flight Schedule" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-66">
+          <mxGeometry x="0.6857" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-92" value="Gets Crew Roster Information" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-63">
+          <mxGeometry x="0.6364" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-93" value="Get PAX Information" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-74">
+          <mxGeometry x="0.7236" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-62">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-99" value="Payment Processing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-98">
+          <mxGeometry x="0.5244" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-100" value="Save Products, Promotions, Inventory, &lt;br&gt;Customer Profile, Supplier Profile, Crew Profile" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="0.4236" y="-18" relative="1" as="geometry">
+            <mxPoint x="800.5" y="290" as="sourcePoint" />
+            <mxPoint x="1028" y="930" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-93" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-101" value="Save Orders" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-13" target="ypW-tspVXmiVovdtBrpO-11">
+          <mxGeometry x="0.3245" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="290" />
+              <mxPoint x="880" y="730" />
+              <mxPoint x="650" y="730" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Retail API Service" c4Type="Container" c4Technology="SpringBoot / Quarkus****" c4Description="Retail API Service built using Microservice &amp; Exposed via API Gateway" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
@@ -146,6 +236,11 @@
         </object>
         <mxCell id="ypW-tspVXmiVovdtBrpO-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-14" target="ypW-tspVXmiVovdtBrpO-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-112" value="Get Profile Details (Customer, Supplier, Partner) via Batch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-50">
+          <mxGeometry x="0.529" y="58" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Type="Database" c4Technology="DynamoDB" c4Description="Retail Database holding Products, Promotions, Customer, Supplier, Partner Information, Exchange Rates" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-14">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
@@ -157,6 +252,11 @@
             <mxPoint x="550" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-111" value="Manage Products, Promotions, &lt;br&gt;Supplier, Inventory" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-42">
+          <mxGeometry x="-0.4302" y="-17" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-15" target="ypW-tspVXmiVovdtBrpO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -165,8 +265,10 @@
             <mxGeometry x="830" y="-280" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-16" target="ypW-tspVXmiVovdtBrpO-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-23" value="update customer profile" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-16" target="ypW-tspVXmiVovdtBrpO-14">
+          <mxGeometry x="-0.04" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Social Media Scanner" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-16">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
@@ -181,6 +283,11 @@
         <mxCell id="ypW-tspVXmiVovdtBrpO-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-18" target="ypW-tspVXmiVovdtBrpO-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-95" value="Sends Product Information and Availability" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-18" target="ypW-tspVXmiVovdtBrpO-76">
+          <mxGeometry x="-0.4963" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Name="Third Party Sales Platform Adaptors" c4Type="Container" c4Technology="AWS Lamda" c4Description="Third Party Sales Platform Adaptors for Orchestration and Transformation on top of Retail API" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-18">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="1640" y="-40" width="160" height="110.00000000000001" as="geometry" />
@@ -189,14 +296,29 @@
         <mxCell id="ypW-tspVXmiVovdtBrpO-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-19" target="ypW-tspVXmiVovdtBrpO-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-105" value="Get and update &lt;br&gt;Order/Inventory Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-53">
+          <mxGeometry x="-0.5352" y="-14" relative="1" as="geometry">
+            <mxPoint y="-62.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-19" target="ypW-tspVXmiVovdtBrpO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-80" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-19" target="ypW-tspVXmiVovdtBrpO-65">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ypW-tspVXmiVovdtBrpO-80" value="Sends Inventory,  Product Order, Invoice from Partner &amp; Supplier" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-19" target="ypW-tspVXmiVovdtBrpO-65">
+          <mxGeometry x="0.619" y="-25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-82" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-19" target="ypW-tspVXmiVovdtBrpO-64">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-106" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-19" target="ypW-tspVXmiVovdtBrpO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-107" value="Send Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-106">
+          <mxGeometry x="0.365" y="-16" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Warehouse &amp; Fulfilment Manager" c4Type="Container" c4Technology="Spring Boot" c4Description="Backoffice" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-19">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
@@ -205,6 +327,11 @@
         </object>
         <mxCell id="ypW-tspVXmiVovdtBrpO-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-20" target="ypW-tspVXmiVovdtBrpO-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-110" value="View Products, Promotions &amp;amp; &lt;br&gt;Recommendations, Manage Orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-38">
+          <mxGeometry x="-0.6717" y="-32" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ypW-tspVXmiVovdtBrpO-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-20" target="ypW-tspVXmiVovdtBrpO-2">
           <mxGeometry relative="1" as="geometry">
@@ -223,17 +350,17 @@
         </object>
         <object placeholders="1" c4Name="Catering System" c4Type="Software System" c4Description="Catering System responsible for managing and loading Inflight Products including food &amp; Duty Free" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-62">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="2170" y="-260" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="2170" y="-500" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Crew Rostering System" c4Type="Software System" c4Description="Manages which crew is rostered on which flight" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-63">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="-800" y="210" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="-820" y="210" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Delivery Partner System" c4Type="Software System" c4Description="Courier System" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-64">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="2170" y="950" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="2170" y="790" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Finance System" c4Type="Software System" c4Description="Financial Accounting &amp; Reconciliation system" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-65">
@@ -243,12 +370,12 @@
         </object>
         <object placeholders="1" c4Name="Flight Scheduling System" c4Type="Software System" c4Description="Day of operation Flight Scheduling System" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-66">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="-810" y="400" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="-820" y="400" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="HR System" c4Type="Software System" c4Description="Used to Manage Employee Information including DDS limits" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-67">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="-800" y="580" width="160" height="110" as="geometry" />
+            <mxGeometry x="-820" y="580" width="160" height="110" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Identity Platform" c4Type="Software System" c4Description="Enterprise Identity Platform for both Staff &amp; Customers" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-68">
@@ -285,30 +412,42 @@
         <mxCell id="ypW-tspVXmiVovdtBrpO-86" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-73" target="ypW-tspVXmiVovdtBrpO-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-116" value="Manage Products, Promotions, Inventory for Partners" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-86">
+          <mxGeometry x="-0.741" y="-8" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Name="Partner Systems" c4Type="Software System" c4Description="DA, Duty Free , Dubai tourism, Dnata, Other Partner Systems" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-73">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="-810" y="-170" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="-820" y="-170" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="PAX Reservation System" c4Type="Software System" c4Description="Passenger Reservation System" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-74">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="-800" y="40" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="-820" y="40" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="ypW-tspVXmiVovdtBrpO-83" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-75" target="ypW-tspVXmiVovdtBrpO-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ypW-tspVXmiVovdtBrpO-115" value="Get Customer information from &lt;br&gt;Social Media information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ypW-tspVXmiVovdtBrpO-83">
+          <mxGeometry x="0.4771" y="-22" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Social Media Platforms" c4Type="Software System" c4Description="Social Media Platforms like Facebook, Twitter" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-75">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
             <mxGeometry x="2170" y="560" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ypW-tspVXmiVovdtBrpO-77" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ypW-tspVXmiVovdtBrpO-76" target="ypW-tspVXmiVovdtBrpO-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <object placeholders="1" c4Name="ThirdParty Selling Platform" c4Type="Software System" c4Description="ThirdParty Selling Platform like Amazon" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-76">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="2170" y="-80" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="2170" y="-300" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Payment Gateway" c4Type="Software System" c4Description="Payment Processing" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ypW-tspVXmiVovdtBrpO-97">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="2170" y="-120" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
       </root>
