@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T10:46:33.886Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="kPh8udCMf5plnk4IFCwU" version="14.4.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-02-28T10:51:37.056Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="3cVppVtfWEderEKHwH-7" version="14.4.3" type="github" pages="7">
   <diagram id="VdLGZPCe84FoVswAMfTZ" name="Page-1">
     <mxGraphModel dx="3978" dy="2748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -909,7 +909,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="JDBC" c4Description="update and get flight details" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="x2wFFMvKJxT__Ha-9-Fj-1">
+        <object placeholders="1" c4Type="Relationship" c4Technology="JDBC" c4Description="update and get Payment details" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="x2wFFMvKJxT__Ha-9-Fj-1">
           <mxCell style="edgeStyle=none;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1P-0DzJTkieSUqBDdr5q-1" source="1P-0DzJTkieSUqBDdr5q-6" target="5SLStVS93iAB2YTDH9i8-0">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="500" y="280" as="sourcePoint" />
@@ -920,7 +920,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="JDBC" c4Description="update and get flight details" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="x2wFFMvKJxT__Ha-9-Fj-2">
+        <object placeholders="1" c4Type="Relationship" c4Technology="JDBC" c4Description="update and get profile details \(Crew/pax/supplier/partners)" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="x2wFFMvKJxT__Ha-9-Fj-2">
           <mxCell style="edgeStyle=none;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1P-0DzJTkieSUqBDdr5q-1" source="1P-0DzJTkieSUqBDdr5q-10">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="664.3835616438355" y="280" as="sourcePoint" />
@@ -943,7 +943,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="JDBC" c4Description="update and get flight details" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="x2wFFMvKJxT__Ha-9-Fj-4">
+        <object placeholders="1" c4Type="Relationship" c4Technology="JDBC" c4Description="update and get Cart/order details" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="x2wFFMvKJxT__Ha-9-Fj-4">
           <mxCell style="edgeStyle=none;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1P-0DzJTkieSUqBDdr5q-1" source="1P-0DzJTkieSUqBDdr5q-2" target="5SLStVS93iAB2YTDH9i8-0">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="120" y="280" as="sourcePoint" />
@@ -954,7 +954,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="JDBC" c4Description="update and get flight details" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="x2wFFMvKJxT__Ha-9-Fj-5">
+        <object placeholders="1" c4Type="Relationship" c4Technology="JDBC" c4Description="update and get Inventory details" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="x2wFFMvKJxT__Ha-9-Fj-5">
           <mxCell style="edgeStyle=none;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1P-0DzJTkieSUqBDdr5q-1" source="1P-0DzJTkieSUqBDdr5q-5" target="5SLStVS93iAB2YTDH9i8-0">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="1530" y="300" as="sourcePoint" />
@@ -1041,7 +1041,7 @@
             <mxPoint x="802.3999999999996" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BZVCcmIrC5ycGGRuGros-1" value="Payments/Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BZVCcmIrC5ycGGRuGros-0">
+        <mxCell id="BZVCcmIrC5ycGGRuGros-1" value="Payments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BZVCcmIrC5ycGGRuGros-0">
           <mxGeometry x="-0.6717" y="-32" relative="1" as="geometry">
             <mxPoint x="664.27" y="53" as="offset" />
           </mxGeometry>
@@ -1115,6 +1115,49 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <mxCell id="BZVCcmIrC5ycGGRuGros-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1P-0DzJTkieSUqBDdr5q-1" target="1P-0DzJTkieSUqBDdr5q-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="-140" as="sourcePoint" />
+            <mxPoint x="1340" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZVCcmIrC5ycGGRuGros-18" value="&amp;nbsp;Cart/Order Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BZVCcmIrC5ycGGRuGros-17">
+          <mxGeometry x="-0.6717" y="-32" relative="1" as="geometry">
+            <mxPoint x="664.27" y="188" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Admin Portal" c4Type="Container" c4Technology="ReactJS" c4Description="Responsive website for Admin to Manage the Admin Functionalities like Managing Product , Promotions, Partners, Suppliers" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="5lhzg4MGqgZzwHkIEtQE-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1P-0DzJTkieSUqBDdr5q-1">
+            <mxGeometry x="1660" y="-260" width="180" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="5lhzg4MGqgZzwHkIEtQE-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1P-0DzJTkieSUqBDdr5q-1" source="5lhzg4MGqgZzwHkIEtQE-0" target="1P-0DzJTkieSUqBDdr5q-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="-130" as="sourcePoint" />
+            <mxPoint x="1530" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5lhzg4MGqgZzwHkIEtQE-2" value="&amp;nbsp;update Inventory&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5lhzg4MGqgZzwHkIEtQE-1">
+          <mxGeometry x="-0.6717" y="-32" relative="1" as="geometry">
+            <mxPoint x="22" y="174" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5lhzg4MGqgZzwHkIEtQE-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1P-0DzJTkieSUqBDdr5q-1" source="5lhzg4MGqgZzwHkIEtQE-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="-140" as="sourcePoint" />
+            <mxPoint x="980" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1750" y="-140" />
+              <mxPoint x="1120" y="-140" />
+              <mxPoint x="1120" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5lhzg4MGqgZzwHkIEtQE-4" value="&amp;nbsp;update&amp;nbsp; Supplier, partner, channels/stores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5lhzg4MGqgZzwHkIEtQE-3">
+          <mxGeometry x="-0.6717" y="-32" relative="1" as="geometry">
+            <mxPoint x="-494" y="282" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
